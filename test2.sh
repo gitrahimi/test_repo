@@ -13,3 +13,6 @@ if[a==bash]
 then 
 echo "googd"
 print 
+
+
+more of the files and changes
